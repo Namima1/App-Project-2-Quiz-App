@@ -1,1 +1,1 @@
-Link: http://127.0.0.1:5500/index.html
+file:///Users/namimaislam/Desktop/Quiz%20app%20project/index.html
